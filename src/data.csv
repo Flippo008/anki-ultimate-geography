@@ -1,5 +1,5 @@
-guid,Country,Country:cz,"Country info","Country info:cz",Capital,Capital:xx,"Capital info","Capital info:xx","Capital hint","Capital hint:xx",Flag,"Flag similarity","Flag similarity:xx",Map,tags
-crr.AfnVRi,England,Anglie,"Constituent country of the United Kingdom.",Konstituční země Velké Británie ,London,,,,"Not a sovereign country",,"<img src=""ug-flag-england.svg"" />",,,"<img src=""ug-map-england.png"" />",UG::Europe
+guid,Country,Country:cz,"Country info","Country info:cz",Capital,Capital:cz,"Capital info","Capital info:xx","Capital hint","Capital hint:xx",Flag,"Flag similarity","Flag similarity:xx",Map,tags
+crr.AfnVRi,England,Anglie,"Constituent country of the United Kingdom.",Konstituční země Velké Británie ,London,Londýn,,,"Not a sovereign country",,"<img src=""ug-flag-england.svg"" />",,,"<img src=""ug-map-england.png"" />",UG::Europe
 fLa47kwPQ|,Scotland,,"Constituent country of the United Kingdom.",,Edinburgh,,,,,,"<img src=""ug-flag-scotland.svg"" />",,,"<img src=""ug-map-scotland.png"" />",UG::Europe
 "qip%,jz5{B","United Kingdom",,,,London,,,,"Sovereign country",,"<img src=""ug-flag-united_kingdom.svg"" />",,,"<img src=""ug-map-united_kingdom.png"" />","UG::Europe UG::European_Union UG::Sovereign_State"
 a>/E!W3aZ:,"Northern Ireland",,"Constituent country of the United Kingdom.",,Belfast,,,,,,,,,"<img src=""ug-map-northern_ireland.png"" />",UG::Europe
